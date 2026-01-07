@@ -85,7 +85,7 @@ Možete zatražiti generiranje nove, jedinstvene Murder Mystery igre! Game Maste
 
 ```
 Kreiraj novu Murder Mystery igru. Neka bude smještena u [lokacija], 
-s [broj] suspekata. Neka ne bude prelagana, ali i ne previše komplicirana.
+s [broj] suspekata ili prepustite te odluke botu da vama ostane misterij. Neka ne bude prelagana, ali i ne previše komplicirana.
 ```
 
 **Ili jednostavnije:**
