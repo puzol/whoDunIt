@@ -38,20 +38,35 @@ whoDunIt/
 
 ## 🎯 Dostupne igre
 
+### Ubojstvo u Beogradu
+- **Lokacija:** Beograd, Srbija, 2024.
+- **Slucaj:** Ubistvo vlasnice umetničke galerije
+- **Status:** ✅ Dostupno
+
 ### Ubojstvo u Blackwood Manor
 - **Lokacija:** Blackwood Manor, 1923.
 - **Slucaj:** Ubistvo Lorda Blackwooda u zaključanoj biblioteci
-- **Status:** ✅ Riješeno
+- **Status:** ✅ Dostupno
 
 ### Ubojstvo u Grand Hotelu Riviera
 - **Lokacija:** Grand Hotel Riviera, Mediteranska obala, 2024.
 - **Slucaj:** Ubistvo umjetničkog kritičara Alessandro Morettija u zaključanom apartmanu
-- **Status:** ✅ Riješeno
+- **Status:** ✅ Dostupno
 
 ### Ubojstvo u centru Zagreba
 - **Lokacija:** Zagreb, Hrvatska, 2024.
 - **Slucaj:** Ubistvo tech poduzetnice Petra Horvat - standardna istraga s više lokacija i sudionika
-- **Status:** 🔍 Aktivna istraga
+- **Status:** ✅ Dostupno
+
+### Ubojstvo u Oazi wellnessa
+- **Lokacija:** Bale, Istra, Hrvatska, 2024.
+- **Slucaj:** Ubistvo vlasnice ekskluzivnog wellness centra
+- **Status:** ✅ Dostupno
+
+### Ubojstvo u vinogradarskoj kući
+- **Lokacija:** Bale, Istra, Hrvatska, 2024.
+- **Slucaj:** Ubistvo vlasnika vinarije u tradicionalnoj istarskoj kući
+- **Status:** ✅ Dostupno
 
 ---
 
